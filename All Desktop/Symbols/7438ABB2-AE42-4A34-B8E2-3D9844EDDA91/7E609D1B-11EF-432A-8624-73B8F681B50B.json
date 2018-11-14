@@ -1,0 +1,101 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica",
+              "size": 36
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle"
+          }
+        },
+        "length": 110,
+        "location": 0
+      }
+    ],
+    "string": "OVERVEIW of the VCD program, list of majors, classes, link to outside page of EWU classes for the VCD program."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7E609D1B-11EF-432A-8624-73B8F681B50B",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 388,
+    "width": 1150,
+    "x": 177,
+    "y": 109
+  },
+  "glyphBounds": "{{1, 8}, {1124, 78}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "OVERVEIW of the VCD",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Helvetica",
+            "size": 36
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle"
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

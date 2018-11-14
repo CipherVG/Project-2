@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "933AA0BD-7954-4C87-81BC-7C68FEDE8225",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED4E8344-BF9E-4F8C-A9C0-0A6389C0806C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A00BA623-D727-4755-A9B8-879CDB36B765",
+    "height": 1440,
+    "width": 1440,
+    "x": 0,
+    "y": 169
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/Featured work",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E08AFA3-0DD5-414A-9A60-919A616C760D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "58BE0052-76A2-4541-92ED-BCEA407ED0AD",
+  "verticalSpacing": 0
+}

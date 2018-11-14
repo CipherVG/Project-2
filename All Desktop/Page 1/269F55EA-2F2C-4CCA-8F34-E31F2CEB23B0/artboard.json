@@ -1,0 +1,111 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7E41219A-EBBE-453F-8867-8EC03E9A65B2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "269F55EA-2F2C-4CCA-8F34-E31F2CEB23B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F89D217-EC3C-40A4-AF84-E721759AEE6E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "688CD261-41F9-49FE-A833-46C73EB57F7B",
+    "height": 1469,
+    "width": 1440,
+    "x": -1685,
+    "y": -2732
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A14EBD06-E56A-4AB8-B14C-3009A6756F9F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5734A5D1-CCB4-44B6-95E0-C420961297AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F08E0B9-DC8A-4DCF-A17C-B4706ED42BB1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "729CA48F-ABCE-45A4-9091-9D09C615F8DB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AFDE2FFF-E660-4A83-B874-F3230268B537"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8ABDC19-5D3D-4CA1-94AD-6E853CAA7D7A"
+    },
+    {
+      "class": "rectangle",
+      "id": "AE04E4B0-37FE-4EAD-B3D4-145DCBAA967F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E7F419A4-8090-419D-A5F2-E8F591E0E3FD"
+    }
+  ],
+  "name": "Desktop HD Work Detail",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9296408-67CF-4E6E-95BD-1915CF00383A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "969D68E3-28DC-478B-9589-B805622D99AA",
+    "guides": [
+    ]
+  }
+}

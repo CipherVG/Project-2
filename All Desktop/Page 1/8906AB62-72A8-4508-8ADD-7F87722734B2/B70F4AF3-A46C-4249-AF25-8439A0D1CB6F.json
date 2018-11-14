@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B70F4AF3-A46C-4249-AF25-8439A0D1CB6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BA68F9D-540A-4E3A-805F-D8539B42C214",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8BAF87D1-B3FC-4059-8AEE-77DCDDB84FC9",
+    "height": 169,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/header",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "56232FCD-61DA-4F2D-B57D-CDAA001BC3B9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B57DC4F8-48F9-4D15-AFFE-F83E2EDA90A9",
+  "verticalSpacing": 0
+}

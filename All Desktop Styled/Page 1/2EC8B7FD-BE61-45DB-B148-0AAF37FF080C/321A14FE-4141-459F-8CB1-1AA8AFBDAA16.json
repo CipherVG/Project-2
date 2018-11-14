@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "321A14FE-4141-459F-8CB1-1AA8AFBDAA16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1091,
+    "width": 1440,
+    "x": 0,
+    "y": 262
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/overveiw of program",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "320831D7-26AB-4CAF-919F-9D0F03971934",
+      "overrideName": "844C8F2B-52B8-4D6F-B340-637B4F3D6A8B_stringValue",
+      "value": "DESN 490 Senior Capstone (5)\nDESN 493 Portfolio Review (2)\n\nSupporting Courses (18–19 credits)\nART 107 Basic Design (5)\nCMST 201 Public Speaking (5) or CMST 200 Introduction to Speech Communication (4)\nTCOM 205 Introduction to Technical Communication (5)\nTECH 393 Technology in World Civilization (4)\n\nElectives (12 credits)\nApproved Electives (12)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5CDE679D-FBE1-48F8-B4EF-3370B1920AA5",
+      "overrideName": "7E609D1B-11EF-432A-8624-73B8F681B50B_stringValue",
+      "value": "Core Courses (55 credits)\nDESN 100 Drawing for Communication (5)\nDESN 216 Digital Foundations (4)\nDESN 243 Typography (4)\nDESN 259 History of Design (4)\nDESN 263 Visual Communication Design 1 (4)\nDESN 338 User Experience Design 1 (4)\nDESN 363 Visual Communication Design 2 (4)\nDESN 366 Production Design (4)\nDESN 368 Web Design 1 (4)\nDESN 463 Visual Communication Design 3 (4)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9F1C0934-49BA-400D-AE9A-7174B0282A2D",
+  "verticalSpacing": 0
+}

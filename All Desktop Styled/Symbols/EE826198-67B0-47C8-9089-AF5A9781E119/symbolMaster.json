@@ -1,0 +1,153 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 7162,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE826198-67B0-47C8-9089-AF5A9781E119",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1440,
+    "width": 1440,
+    "x": 1912,
+    "y": 646
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "97B02EA2-F5A7-43ED-9CAB-04AE00729120"
+    },
+    {
+      "class": "rectangle",
+      "id": "2288DF70-EF03-49F4-932D-93BAE1D072A0"
+    },
+    {
+      "class": "rectangle",
+      "id": "9F39A03E-576F-4F87-92A5-670C13737E17"
+    },
+    {
+      "class": "rectangle",
+      "id": "5EDCA51A-A198-41E5-A012-2EAB60402F3B"
+    },
+    {
+      "class": "rectangle",
+      "id": "459EF312-F22D-48AD-BEE0-7B331D0D3BCE"
+    },
+    {
+      "class": "rectangle",
+      "id": "244D0CE5-D058-46F9-B70B-C1A6EF8796AC"
+    },
+    {
+      "class": "rectangle",
+      "id": "2B778816-2C88-4E4E-84A9-069C034D2DBA"
+    },
+    {
+      "class": "rectangle",
+      "id": "18AD2502-A68A-41D3-8EAF-C5985D98B329"
+    },
+    {
+      "class": "rectangle",
+      "id": "B36E55D6-FEE4-456A-82CF-5A9591633631"
+    },
+    {
+      "class": "text",
+      "id": "ECC6ECEF-6383-4C2B-80A9-6A6447951EE1"
+    },
+    {
+      "class": "text",
+      "id": "517D5146-D137-4912-B59D-389AF1AD077A"
+    },
+    {
+      "class": "text",
+      "id": "B82C8778-FF8E-4E62-BD87-546C0DBDC12E"
+    },
+    {
+      "class": "text",
+      "id": "F3D18A60-E2EE-450C-AB9A-783CA48727A0"
+    },
+    {
+      "class": "rectangle",
+      "id": "8F223100-2FD1-4EE9-9B8D-3AADC0CD4697"
+    },
+    {
+      "class": "rectangle",
+      "id": "B7A5F208-BD86-426C-97BC-98550CCF14D6"
+    },
+    {
+      "class": "rectangle",
+      "id": "E41A0367-8A43-4635-8BEC-F8D7BDCC5228"
+    },
+    {
+      "class": "rectangle",
+      "id": "5CBE006D-B1AE-4397-9788-EC81F616A0D4"
+    },
+    {
+      "class": "rectangle",
+      "id": "7C35DD40-E2D0-4623-9112-FDB07474C56A"
+    },
+    {
+      "class": "rectangle",
+      "id": "0E53E21E-D704-47A0-AC6C-038536C795CB"
+    },
+    {
+      "class": "rectangle",
+      "id": "523C82EF-3F29-4E9B-AB43-FB393C46E2E3"
+    }
+  ],
+  "name": "molecule/desktop/Featured work",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "58BE0052-76A2-4541-92ED-BCEA407ED0AD",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

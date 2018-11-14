@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "791D1076-6FB3-40F5-9C0B-4D4451EAECC0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B75028F9-8099-4EE6-B306-0A0B965B9AB3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ED17458A-DB8E-4A3E-B1AE-93DEEBF9C3C7",
+    "height": 112,
+    "width": 285,
+    "x": 18,
+    "y": 300
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/faculty copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98E7CC77-2BE3-4B0E-9160-7FA4E551D453",
+      "overrideName": "383B2D2F-B8AE-4D73-8F8D-73FBBE4C984D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e49675b432d5a52caca8cc5197c522f71516b990.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2F2AFAB8-2ECC-47CF-AB69-B3BB0409B931",
+      "overrideName": "61278C47-6257-4B07-8E31-7333D8911E65_stringValue",
+      "value": "Ginelle Hustrulid\nAssistant Professor, Visual Communication Design\nCEB 339\nPhone: 509.359.7396\nEmail: ghustrulid@ewu.edu                       Classes: VCD1, VCD3, Motion1&2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "17C5122D-64C2-485D-83D1-1D267944A7CC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CDCCFC87-6F5F-4D1B-AEE6-C6060A097882",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,89 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2127,
+  "clippingMaskMode": 0,
+  "do_objectID": "44A482C6-A8E5-4ECD-B731-52B72507FF56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 320,
+    "x": 100,
+    "y": 315
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4F047A08-2249-4189-8E08-1870EC09F7DA"
+    },
+    {
+      "class": "text",
+      "id": "D309D17F-A46C-405C-9C0C-7892D3F23B6A"
+    },
+    {
+      "class": "rectangle",
+      "id": "6A8138D6-6CD2-404C-B53E-4783FD1E8EF0"
+    },
+    {
+      "class": "rectangle",
+      "id": "FDEAD65F-1B4F-449D-A12B-817D08EB47D9"
+    }
+  ],
+  "name": "molecule/mobile/overveiw of program",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "75AFFCC4-E53F-4F26-8F64-6092D3D7230C",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

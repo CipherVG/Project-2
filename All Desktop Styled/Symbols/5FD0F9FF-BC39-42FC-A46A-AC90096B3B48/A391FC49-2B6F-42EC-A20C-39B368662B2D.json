@@ -1,0 +1,159 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A391FC49-2B6F-42EC-A20C-39B368662B2D",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4B9D0D2-80B2-49D9-AFCC-A56A62E51D9D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 0,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 461,
+    "width": 720.0000000000003,
+    "x": -1.70530256582424e-13,
+    "y": 459
+  },
+  "hasClippingMask": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rectangle Copy",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.83167936837836376, 0.16113238003616748}",
+      "curveMode": 1,
+      "curveTo": "{0.8012152777777759, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.8012152777777759, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1.032556742732744, 0.47362758373194702}",
+      "curveMode": 1,
+      "curveTo": "{0.96953590939941081, 0.14029425039861271}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99999999999999867, 0.30142663043478013}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.71889286747685177, 0.99999999999999978}",
+      "curveMode": 1,
+      "curveTo": "{0.96744325726725411, 0.82779904670283411}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99999999999999956, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.10445240162037053, 0.99999999999999978}",
+      "curveMode": 1,
+      "curveTo": "{0.43778573495370376, 0.99999999999999978}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.15667860243055579, 0.99999999999999978}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{4.4408920985006262e-16, 0.75360968004338424}",
+      "curveMode": 1,
+      "curveTo": "{0.052226200810185711, 0.75360968004338402}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{4.4408920985006262e-16, 0.75360968004338424}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "E3F06E1B-1ED9-4674-9850-AF6BF24E5958",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/d8a2016a29426668d384b487e093453c31a65f31.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "category": "Hipster",
+        "mode": "unsplash"
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2188B847-FCF9-4CEB-A4C9-31EEA7B75AE1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "08577626-0074-40FF-ABE9-E80D1638C4AC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9808079F-606D-4F92-BDB5-12462361ACD6",
+    "height": 324,
+    "width": 1269,
+    "x": 85,
+    "y": 320
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/faculty",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3A521DFC-FD82-485F-AF16-687494585D04",
+      "overrideName": "7C8B2355-0D50-4381-A298-76561176A1E3_stringValue",
+      "value": "Mindy Breen                                                Associate Professor, Visual Communication Design\nCEB 333\nPhone: 509.359.7002\nEmail: mbreen@ewu.edu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FBC0B942-6EC1-47A9-98AA-9CF96426BD3C",
+      "overrideName": "DBC19A6B-F80C-4EEA-950E-0B89B8E69A39_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4390d996303cd155f8c9d26264ec09259322eb7f.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "212CFFD3-4713-4743-B096-4424202F9172",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "762FD90C-B67D-49EB-87D4-D435F7052091",
+  "verticalSpacing": 0
+}

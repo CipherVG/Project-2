@@ -1,0 +1,109 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica",
+              "size": 22
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 78,
+        "location": 0
+      }
+    ],
+    "string": "Graduated or still student.\nCurrent feild of work/ where they want to work etc"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0B835836-6C06-47DE-81A1-BDB2008DAC7F",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A8B8AE58-C686-4D21-8265-0704B168867B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A31FBD54-979F-4E98-AA0A-A0863C735EA8",
+    "height": 155,
+    "width": 179,
+    "x": 21,
+    "y": 746
+  },
+  "glyphBounds": "{{0, 4}, {167, 122}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Graduated or still s",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A48615D0-7A23-4F0B-8E49-A4660968453D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "8886969A-E9B6-428B-A3CD-7F653F55DBD1",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Helvetica",
+            "size": 22
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

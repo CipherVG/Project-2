@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "98435F7F-EF16-4A88-960B-322D67E8FDD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9BAA7459-4E5C-4884-877E-8122A5F9B988",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EC975704-1632-4D6F-BF06-A68B65279371",
+    "height": 200,
+    "width": 320,
+    "x": 0,
+    "y": 766
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/photos of the work",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EEB5E08C-9E04-4458-B8E8-7396E3287DAF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A43BF7AF-8D83-4AB2-9BC0-F261B0CAC84D",
+  "verticalSpacing": 0
+}

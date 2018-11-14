@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "190AB373-E648-4F1D-9F66-CDEE14F3D237",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCB8463B-ED6D-4492-87BA-17674A214F88",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8AAED019-B47A-495D-A1D3-177A3CC21AD9",
+    "height": 324,
+    "width": 1269,
+    "x": 88,
+    "y": 2175
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/faculty copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "957EA63C-6448-4D17-B388-3435A9BF9EDB",
+      "overrideName": "7C8B2355-0D50-4381-A298-76561176A1E3_stringValue",
+      "value": "Tyreil Poosri\nLecturer, Visual Communication Design\nCheney Hall 208\nPhone: 509.359.4772\nEmail: tpoosri47@ewu.edu                          Classes: Web1,2,&3, UX1&2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B41E7E3-5978-4081-B298-76A575FA62CD",
+      "overrideName": "DBC19A6B-F80C-4EEA-950E-0B89B8E69A39_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/397f69995d30a20389322e8d6796bcf23d3f781d.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AB4655E6-557F-40AF-A5FA-98048433492A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "762FD90C-B67D-49EB-87D4-D435F7052091",
+  "verticalSpacing": 0
+}

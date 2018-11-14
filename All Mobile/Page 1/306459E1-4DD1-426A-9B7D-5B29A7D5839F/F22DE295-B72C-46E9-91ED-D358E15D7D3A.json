@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F22DE295-B72C-46E9-91ED-D358E15D7D3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "709B1F13-E59A-4ABC-8073-DCCD0BB95A9A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C13F00E5-2EEE-4559-A9B4-A0F1EAD5603C",
+    "height": 75,
+    "width": 285,
+    "x": 18,
+    "y": 164
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/faculty",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1E61B5D9-F7D5-4E06-B537-CBB71B637F9E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CDCCFC87-6F5F-4D1B-AEE6-C6060A097882",
+  "verticalSpacing": 0
+}

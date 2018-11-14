@@ -1,0 +1,120 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Skia-Regular_Bold",
+              "size": 9
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 10,
+        "location": 0
+      }
+    ],
+    "string": "May Hunter"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2C69D48F-5068-4870-B291-BB8358899991",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "58BAD758-0F69-44D4-8F99-8802EEB930AA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "897ADCAF-6081-479A-B0C9-AFBF73FE44F5",
+    "height": 27,
+    "width": 55,
+    "x": 257,
+    "y": 225
+  },
+  "glyphBounds": "{{2, 3}, {52, 9}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "May Hunter",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E30A6B60-5646-4EE4-909F-363211AA3170",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "5E61FCDA-75C9-4D7A-88ED-43EAAEA18443",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Skia-Regular_Bold",
+            "size": 9
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "name",
+        "options": {
+          "gender": "female"
+        },
+        "title": "Female"
+      }
+    }
+  }
+}

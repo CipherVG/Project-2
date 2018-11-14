@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "449CFCA6-CC46-4179-93E2-DB6998937351",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "999074D1-8A42-4C2D-B918-B599B46B4086",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "46A8A105-5C40-48D7-918F-9434FF314510",
+    "height": 293,
+    "width": 1266,
+    "x": 125,
+    "y": 3436
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/reveiws copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "710349D5-E8D7-4F1C-A00D-6CA85BEF4D8B",
+      "overrideName": "49473C3F-5AD5-419C-981A-C2E969F820B4_stringValue",
+      "value": "PRODUCTION DESIGN"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC474C22-5F78-4D15-A410-2A8E1290EFA7",
+      "overrideName": "CE4DC717-8BF9-4A24-BEAF-C2AA16B1076B_stringValue",
+      "value": "This course provides students with theory, knowledge and skill of production design for both print and web application."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "928ADF4B-2236-4EC5-B0C7-38B746101DCA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "45222B9F-ACAE-4E53-B1B9-D46409DCE60F",
+  "verticalSpacing": 0
+}

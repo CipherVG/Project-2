@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D52619B9-9896-43DF-9E55-CD58FAFD6406",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CE1DF617-B83A-4B14-8F68-16A5E83AF328",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "22784DF0-AADA-458A-8987-3C335FF3311B",
+    "height": 472,
+    "width": 200,
+    "x": 60,
+    "y": 160
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/biothing",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "76744417-9619-49F6-8C5A-576165FD6541",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BAA16382-6D42-4822-B584-D71805758E60",
+  "verticalSpacing": 0
+}

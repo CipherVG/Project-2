@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CEFD5EE0-F46D-46B4-9D1E-A702230ACAC2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F8CB04C-131E-4524-871B-6D7470BFBBC2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A57D60B6-679A-4FC4-9327-453105E662A6",
+    "height": 649,
+    "width": 1440,
+    "x": 0,
+    "y": 169
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/overveiw of program",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "40BF4992-021A-4ADD-A6F2-C6819C02A92A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9F1C0934-49BA-400D-AE9A-7174B0282A2D",
+  "verticalSpacing": 0
+}

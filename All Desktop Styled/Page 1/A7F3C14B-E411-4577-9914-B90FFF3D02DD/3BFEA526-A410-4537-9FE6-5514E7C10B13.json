@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3BFEA526-A410-4537-9FE6-5514E7C10B13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "079E7A58-001E-42E3-A1AA-AEFDDA82CF80",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "791329C9-DB5B-4FFC-836E-956E5754A4B9",
+    "height": 858,
+    "width": 1440,
+    "x": 0,
+    "y": 1702
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/event",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "60E5A30D-0EA6-49DA-A016-BA08C2EB5394",
+      "overrideName": "CA946D79-D364-43A4-85D6-B2D0DDB0395D_stringValue",
+      "value": "Job Fairs"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "97213FFC-9460-409F-870E-161CDFCC638D",
+      "overrideName": "C8914219-5B99-4008-A8F8-2C76F4D251F1_stringValue",
+      "value": "Photography"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2467D45C-ADFB-4A09-A89F-3A3016112EC7",
+      "overrideName": "F1467CB6-AD86-44D8-AA3D-F973576001DC_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/31064e26cb4cadb1f44b51b25bdade4fd81d583c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71332E7A-BB95-42BA-97DB-B369931C4D20",
+      "overrideName": "A7B5EC9C-FD28-4B45-84FE-61DD1E0627C0_stringValue",
+      "value": "Production of Working"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6D4486F6-C4E1-4954-BFE4-B3E4F4044BDB",
+      "overrideName": "D0005B71-4A0D-44E7-B428-25211A162C3B_stringValue",
+      "value": "Oportunities Everywhere"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA741E9E-EF23-4681-A21C-8D846247A8AD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "28D6298E-E148-446C-B7D2-EFB0FFE1FD9D",
+  "verticalSpacing": 0
+}

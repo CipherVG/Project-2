@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "59136F22-05FE-41F6-986E-B665C0621149",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A0B403ED-C6E2-4A3B-9040-CF8D9063FB6A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "99078D49-7045-43DA-A09C-DA3326AEB693",
+    "height": 920,
+    "width": 1440,
+    "x": 0,
+    "y": 253
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/events Upcoming",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3C5D615A-98B1-416A-862C-DD05E4E03CF4",
+      "overrideName": "2D82423C-B6F3-4B77-B47A-CD53367D86F4_stringValue",
+      "value": "Production of Working the Musical"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F35F14C-DFD7-4CE9-BABE-019DDCFE5ABD",
+      "overrideName": "F3563BD3-E9F8-48D8-9C45-E127984CCE15_stringValue",
+      "value": "Oportunities Everywhere"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9CF4AA15-3FD4-459B-9B07-27345A672F00",
+      "overrideName": "E32A531F-5C8B-4A00-9042-D23136BFC9DB_stringValue",
+      "value": "Photography"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "913D8B72-3DAD-46B2-BACD-63EC1E8F140B",
+      "overrideName": "242AAA7E-1F3F-4895-8F20-4A1AA7BBA037_stringValue",
+      "value": "BFA Showcase"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1EA5336F-A48A-4C57-A8A6-D04C57E2DD5B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69D8DFC4-A414-4562-B09A-1B0B426FD0BA",
+  "verticalSpacing": 0
+}

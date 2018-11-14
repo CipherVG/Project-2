@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D665049A-20FF-4EA2-B585-5362765D785C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51C00C35-DC86-40B9-AC31-7037CFD7C73C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "573C011C-925C-4186-968B-D21C78F8982B",
+    "height": 89,
+    "width": 320,
+    "x": 0,
+    "y": 65
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/bioheader",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "14CCA5D2-CCBC-4C81-8587-C259EA1F3285",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "772A2F0D-1167-42E9-B67F-06AE3FEE821A",
+  "verticalSpacing": 0
+}

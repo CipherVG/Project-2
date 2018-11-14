@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7A84AF27-6245-4A5E-98E4-8E4CCA1315DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "88E56D8B-BDC3-446A-AD8A-84AD4D24BABE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A55E09D-B7D5-4F75-A75F-E9F40CA19945",
+    "height": 69,
+    "width": 277,
+    "x": 22,
+    "y": 395
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/reviews",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A58B83D9-0155-40B2-9C96-E7BB5000E694",
+      "overrideName": "CF77AC62-E99D-43EB-935C-33B894CDB07C_stringValue",
+      "value": "This course covers hand-drawing as a design skill. Emphasis is on sketching, design drawing."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "90E8251E-A930-4017-A15C-11A4940937B8",
+      "overrideName": "B89B272C-D68D-4C1B-830A-FC6F41014D69_stringValue",
+      "value": "Design 100"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "63B42DD4-F275-4B5E-9E0E-BB326DB511DB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "02D35CC6-7FA7-4DA5-9F80-F9A2A3FBFFA5",
+  "verticalSpacing": 0
+}

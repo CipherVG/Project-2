@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1A000FBE-52A3-4CBE-99E1-2B1CA60FCAB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "956B976B-F46D-44B5-B6DD-D17F61E11FE7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "43B5D40C-0911-494D-86B9-06A7806673BF",
+    "height": 324,
+    "width": 1269,
+    "x": 82,
+    "y": 1433
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/faculty copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8EF0198B-5AFC-4D6C-A996-7B47A0DD2190",
+      "overrideName": "7C8B2355-0D50-4381-A298-76561176A1E3_stringValue",
+      "value": "Travis Masingale\nAssistant Professor, Visual Communication Design\nCEB 330\nPhone: 509.359.2437\nEmail: tmasingale@ewu.edu                        Classes: VCD1, Design 100"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F2F7634-FA40-4A84-AE7C-EB0AA06F545C",
+      "overrideName": "DBC19A6B-F80C-4EEA-950E-0B89B8E69A39_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1524e52159ab95408abe5452ea1f0358b0e00988.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FDEB55DC-D26A-4924-88EF-49F4A3E303E9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "762FD90C-B67D-49EB-87D4-D435F7052091",
+  "verticalSpacing": 0
+}

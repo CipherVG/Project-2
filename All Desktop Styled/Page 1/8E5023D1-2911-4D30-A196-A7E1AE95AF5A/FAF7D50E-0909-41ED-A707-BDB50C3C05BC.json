@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FAF7D50E-0909-41ED-A707-BDB50C3C05BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "174F69A4-5113-41D7-8003-45C75B7ED9C5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C099B621-F66F-45A5-A697-0A95E8F60232",
+    "height": 324,
+    "width": 1269,
+    "x": 90,
+    "y": 2546
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/faculty copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E1DB47F1-E1DA-48FB-BF8C-9A6764576792",
+      "overrideName": "7C8B2355-0D50-4381-A298-76561176A1E3_stringValue",
+      "value": "James Braukmann\nProfessor Emeritus, Visual Communication Design\nCEB 335\nPhone: 509.359.2437\nEmail: jbraukmann@ewu.edu                       Classes: Digital Sound Design"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "011996ED-4B92-450F-86FD-3028DE1CD113",
+      "overrideName": "DBC19A6B-F80C-4EEA-950E-0B89B8E69A39_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9f148a9e1b3f50cf0c252d2b925f97c19f48dbd4.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0856AEF3-B2DE-427F-9D4C-DA26CFC868B0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "762FD90C-B67D-49EB-87D4-D435F7052091",
+  "verticalSpacing": 0
+}

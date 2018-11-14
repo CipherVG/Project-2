@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "70469462-8BD8-4E33-A4F0-91D5CE725CA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "459214FA-1DC3-446B-898B-69C9A9EB87C5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07038187-9325-4CE7-85CE-24F83EE708D7",
+    "height": 75,
+    "width": 285,
+    "x": 18,
+    "y": 786
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/faculty copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BC2C5192-D8C4-47EC-8998-18010278533A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CDCCFC87-6F5F-4D1B-AEE6-C6060A097882",
+  "verticalSpacing": 0
+}

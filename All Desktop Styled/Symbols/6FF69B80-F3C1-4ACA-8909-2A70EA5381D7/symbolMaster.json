@@ -1,0 +1,89 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1639,
+  "clippingMaskMode": 0,
+  "do_objectID": "6FF69B80-F3C1-4ACA-8909-2A70EA5381D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 365,
+    "width": 1125,
+    "x": 5264,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "294C10C6-51D3-44C0-86A5-4EBF14731685"
+    },
+    {
+      "class": "rectangle",
+      "id": "BE3B50A8-84DC-4B2D-A830-13924CF145EC"
+    },
+    {
+      "class": "text",
+      "id": "F8D440F9-9534-47A9-B286-D539C7BDEF46"
+    },
+    {
+      "class": "rectangle",
+      "id": "3951FB86-9F3B-4D2F-A414-79D2A9D486A1"
+    }
+  ],
+  "name": "molecule/desktop/description of art",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9C91A13D-2870-4644-A04B-CAC39A309E23",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

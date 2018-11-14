@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC232389-BF4C-4B84-8602-62122BE9FE89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "480AE01B-079D-4E56-8DC4-748F9FB3D5FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "239FBB8D-598F-46C3-911A-AC3154B51E2D",
+    "height": 112,
+    "width": 285,
+    "x": 18,
+    "y": 185
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/faculty copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F381E54-E8FC-4F86-A3E6-412ABC044667",
+      "overrideName": "383B2D2F-B8AE-4D73-8F8D-73FBBE4C984D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2795b1d460ffea070fc5be37a6ab76078c7b1092.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "19A5A96F-1D1D-45FE-92F2-0E0B23BE7BA3",
+      "overrideName": "61278C47-6257-4B07-8E31-7333D8911E65_stringValue",
+      "value": "Sonja Durr\nFull-time Lecturer\nCheney 208\nPhone: 509.359.7423\nEmail: sdurr2@ewu.edu                                 Classes: VCD2, History of Design"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1330940D-D23F-4970-9548-1567F1BCB09F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CDCCFC87-6F5F-4D1B-AEE6-C6060A097882",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EBFF9633-176C-4FE5-8744-D205C8FF9E55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9703DB88-6FCC-42D8-8DBD-148EE9E4FB04",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA3D9EDE-E596-4CF6-A0D9-58E52B1D827B",
+    "height": 69,
+    "width": 277,
+    "x": 22,
+    "y": 478
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/reviews copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CFE6B40A-13B2-43DC-81E9-058BB061FB9F",
+      "overrideName": "B89B272C-D68D-4C1B-830A-FC6F41014D69_stringValue",
+      "value": "TYPOGRAPHY"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC6F661C-61F1-4EEA-B505-65D71FC969A7",
+      "overrideName": "CF77AC62-E99D-43EB-935C-33B894CDB07C_stringValue",
+      "value": "An introductory-level course concentrating on the\nfundamentals of typography."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "054B436F-B3F3-4732-A11B-CF54CA7120A3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "02D35CC6-7FA7-4DA5-9F80-F9A2A3FBFFA5",
+  "verticalSpacing": 0
+}

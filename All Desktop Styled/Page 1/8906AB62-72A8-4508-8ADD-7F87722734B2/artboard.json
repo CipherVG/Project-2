@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2DA01549-89E0-424F-BD43-2383ED9F16C3",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8906AB62-72A8-4508-8ADD-7F87722734B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1164840-6C00-4DD4-8C19-4DB05D4F9DEC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "427F15C7-5A3A-4DB7-B8EE-ADD833DE7A89",
+    "height": 2272,
+    "width": 1440,
+    "x": -33,
+    "y": -2732
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3E873BE2-1C1B-4900-8E26-156973F1FAF7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B70F4AF3-A46C-4249-AF25-8439A0D1CB6F"
+    },
+    {
+      "class": "rectangle",
+      "id": "CD8D370E-B9F8-4183-AD2A-E4D8043DBAB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "326B73D5-8BAE-4660-BCDD-6AC6185B6D70"
+    },
+    {
+      "class": "group",
+      "id": "81E37E62-9DAF-438E-A810-4932D57D3758"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "59136F22-05FE-41F6-986E-B665C0621149"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40F2DC03-F36C-4C1E-AB4E-EE0381965B3C"
+    },
+    {
+      "class": "rectangle",
+      "id": "8AF7DAD8-E817-4222-AF8C-C4BDBD4F805A"
+    },
+    {
+      "class": "text",
+      "id": "AEE8FD71-A9D4-4102-A0F0-0DD798FA1ADA"
+    }
+  ],
+  "name": "Desktop HD Events",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB584348-FF79-4145-B591-6A43AAD36ECE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "28132BBD-5F4F-422D-B65F-6B7DDDD62266",
+    "guides": [
+    ]
+  }
+}

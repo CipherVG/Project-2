@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "875A2995-6BF7-4510-8736-C998826788D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F6D7652A-027A-4B74-A62C-5D975F90A952",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4D03ED28-FC0A-43DA-9946-535DB4CC5A04",
+    "height": 293,
+    "width": 1266,
+    "x": 125,
+    "y": 1654
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/reveiws copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E8C42424-1BF0-494C-9CEA-C4FD04429A55",
+      "overrideName": "49473C3F-5AD5-419C-981A-C2E969F820B4_stringValue",
+      "value": "TYPOGRAPHY"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "06AEBE6A-37EC-4DA2-9376-0F879645CB8D",
+      "overrideName": "CE4DC717-8BF9-4A24-BEAF-C2AA16B1076B_stringValue",
+      "value": "An introductory-level course concentrating on the\nfundamentals of typography."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A4D4A6F-9953-43FB-8667-3F7399F2B14F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "45222B9F-ACAE-4E53-B1B9-D46409DCE60F",
+  "verticalSpacing": 0
+}

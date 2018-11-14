@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FA5C5D7F-F67F-4BB4-80E6-406895625A92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE984274-3D07-41E8-987F-7E6333B37A1B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1739F8C4-410C-4BF9-9A3D-A44C8D43DC7D",
+    "height": 310,
+    "width": 1282,
+    "x": 98,
+    "y": 862
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/faculty copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F7AA7548-6A0F-4B53-8959-7A6D63440613",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "762FD90C-B67D-49EB-87D4-D435F7052091",
+  "verticalSpacing": 0
+}

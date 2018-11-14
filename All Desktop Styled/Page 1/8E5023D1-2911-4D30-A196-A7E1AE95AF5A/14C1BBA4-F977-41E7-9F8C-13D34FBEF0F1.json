@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "14C1BBA4-F977-41E7-9F8C-13D34FBEF0F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B5365D4D-16CD-497D-8F91-A26B002C66B6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FA95F6C0-4734-4EA6-914A-78250183E387",
+    "height": 324,
+    "width": 1269,
+    "x": 85,
+    "y": 1804
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/faculty copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "25E8A8D6-BE13-4A3B-875A-ABAEE4088CB1",
+      "overrideName": "7C8B2355-0D50-4381-A298-76561176A1E3_stringValue",
+      "value": "P. Colin Manikoth\nLecturer, Visual Communication Design\nCEB 344\nPhone: 509.359.4086\nEmail: pmanikoth@ewu.edu                         Classes: Web1,2,&3, UX1&2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E31D0B48-DD9C-46A8-8E07-6523757EE30F",
+      "overrideName": "DBC19A6B-F80C-4EEA-950E-0B89B8E69A39_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1866d0139c406faa810ed9b27199815ea06ce18c.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "06E9E219-7AFB-4088-978F-6D448525C8FE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "762FD90C-B67D-49EB-87D4-D435F7052091",
+  "verticalSpacing": 0
+}

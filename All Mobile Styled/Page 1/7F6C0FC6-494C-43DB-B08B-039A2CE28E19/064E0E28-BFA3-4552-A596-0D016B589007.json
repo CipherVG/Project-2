@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "064E0E28-BFA3-4552-A596-0D016B589007",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5B2F5342-FB66-401C-9658-A756B4585D16",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1F6C4F18-1107-4B2A-85C0-43FF595C723D",
+    "height": 142,
+    "width": 323,
+    "x": 0,
+    "y": 847
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/faculty and contacts",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A605ABC2-D7C3-440B-BC03-751C551CFB8D",
+      "overrideName": "CBBF77B4-08F1-4026-A593-2D802F63D339_stringValue",
+      "value": "Our Instagram                                              Our VCD Club                                             EWU page VCD"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A5F3F1B-1FEA-4AE1-B950-428D04CAE8B6",
+      "overrideName": "3EF87F10-F5D3-4818-93FE-83FD6FC40B32_stringValue",
+      "value": "Click here to see our Faculty"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "16556172-D341-4640-8417-2F0A46497652",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AAECACF8-F6A1-4687-BD9A-7ABCCBFD09E1",
+  "verticalSpacing": 0
+}

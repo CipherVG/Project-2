@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DDCC8EBB-0073-4B6E-B05A-0BD22B6B76B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED160802-DD43-42E9-A0BA-3C7FF9964FEF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "295979F5-086D-4E03-B2B9-DC7924065287",
+    "height": 69,
+    "width": 277,
+    "x": 22,
+    "y": 973
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/reviews copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5AC9E12A-F877-4440-A4AC-87FBFB4C88E7",
+      "overrideName": "CF77AC62-E99D-43EB-935C-33B894CDB07C_stringValue",
+      "value": "This course covers professional web design addressing modern technologies, processes and techniques."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D19DFE3D-5B77-4606-96FA-B6DF879B207C",
+      "overrideName": "B89B272C-D68D-4C1B-830A-FC6F41014D69_stringValue",
+      "value": "Web1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8B70DC3-680A-4EAB-AE67-2816D3A7E038",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "02D35CC6-7FA7-4DA5-9F80-F9A2A3FBFFA5",
+  "verticalSpacing": 0
+}

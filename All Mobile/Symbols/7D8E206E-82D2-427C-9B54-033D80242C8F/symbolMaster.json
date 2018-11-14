@@ -1,0 +1,121 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2395,
+  "clippingMaskMode": 0,
+  "do_objectID": "7D8E206E-82D2-427C-9B54-033D80242C8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 472,
+    "width": 200,
+    "x": 1320,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C62B13D9-1255-4D4E-8B4E-6E0D6F3E5F82"
+    },
+    {
+      "class": "text",
+      "id": "6B4C91C6-4553-4D20-B136-93589372DB9C"
+    },
+    {
+      "class": "rectangle",
+      "id": "46838B1B-FB75-4ACB-A310-942139DD2163"
+    },
+    {
+      "class": "text",
+      "id": "95F7C1C2-BB3D-4E74-A883-8AB7047469D8"
+    },
+    {
+      "class": "rectangle",
+      "id": "D2BC790B-147A-4D61-B3F1-AC3CCB5FC545"
+    },
+    {
+      "class": "rectangle",
+      "id": "F57B38CE-D1D6-4096-8C4C-282F73A51413"
+    },
+    {
+      "class": "rectangle",
+      "id": "08EA9C5F-77E9-478D-A35F-E92D240BB1E5"
+    },
+    {
+      "class": "rectangle",
+      "id": "50E99601-06A8-4D64-A94F-CF60D0E4B11E"
+    },
+    {
+      "class": "text",
+      "id": "9AF25099-F032-4757-BCD6-61BD5D394708"
+    },
+    {
+      "class": "text",
+      "id": "36C7C6DF-FBC3-4A8A-8B42-86E11BDE3647"
+    },
+    {
+      "class": "rectangle",
+      "id": "9104D817-8ACC-4E53-B196-5E4D9A915C45"
+    },
+    {
+      "class": "rectangle",
+      "id": "9C2E2292-936B-4168-8D77-69882EADED77"
+    }
+  ],
+  "name": "molecule/mobile/biothing",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BAA16382-6D42-4822-B584-D71805758E60",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

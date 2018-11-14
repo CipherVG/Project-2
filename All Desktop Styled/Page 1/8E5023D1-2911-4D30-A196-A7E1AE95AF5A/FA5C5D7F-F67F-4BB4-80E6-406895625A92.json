@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FA5C5D7F-F67F-4BB4-80E6-406895625A92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE984274-3D07-41E8-987F-7E6333B37A1B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1739F8C4-410C-4BF9-9A3D-A44C8D43DC7D",
+    "height": 324,
+    "width": 1269,
+    "x": 85,
+    "y": 1062
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/faculty copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A03D106-1102-4BD9-81F9-6FAE34EECD66",
+      "overrideName": "7C8B2355-0D50-4381-A298-76561176A1E3_stringValue",
+      "value": "Ginelle Hustrulid\nAssistant Professor, Visual Communication Design\nCEB 339\nPhone: 509.359.7396\nEmail: ghustrulid@ewu.edu                       Classes: VCD1, VCD3, Motion1&2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E3E3694-426C-43E0-B980-85673B356FDC",
+      "overrideName": "DBC19A6B-F80C-4EEA-950E-0B89B8E69A39_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e49675b432d5a52caca8cc5197c522f71516b990.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F7AA7548-6A0F-4B53-8959-7A6D63440613",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "762FD90C-B67D-49EB-87D4-D435F7052091",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1963,
+  "clippingMaskMode": 0,
+  "do_objectID": "8C5F12F9-1190-402B-82F2-81315E78C3EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 200,
+    "width": 320,
+    "x": 100,
+    "y": 1153
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "77C4B6FE-1689-46A5-924A-ADA70FCBEA0F"
+    },
+    {
+      "class": "rectangle",
+      "id": "8D60F55E-A837-4720-B286-746987FE31E6"
+    },
+    {
+      "class": "rectangle",
+      "id": "733C49D6-AF3D-4D84-9C44-5DB79744E7B7"
+    },
+    {
+      "class": "rectangle",
+      "id": "7B961699-F8CC-4C66-AEA3-95D8348C2015"
+    },
+    {
+      "class": "rectangle",
+      "id": "8B55E98D-EC4C-4BD0-AFC1-28D616689769"
+    },
+    {
+      "class": "rectangle",
+      "id": "63FAABE9-D911-4D78-A020-FD66542CB614"
+    },
+    {
+      "class": "rectangle",
+      "id": "C0CE16EF-ABE4-4AC4-B213-C8284E147A12"
+    },
+    {
+      "class": "rectangle",
+      "id": "451BF8E4-F521-4B18-A875-F33F41970C9D"
+    },
+    {
+      "class": "rectangle",
+      "id": "074071EB-4A81-4059-A690-E41378827FE5"
+    }
+  ],
+  "name": "molecule/mobile/photos of the work",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A43BF7AF-8D83-4AB2-9BC0-F261B0CAC84D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

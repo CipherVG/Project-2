@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A3511BE5-7F2A-40D6-89B5-A8DC2B2B273D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E85410F-1AAA-418A-AFBD-F22DDCF61220",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5FE3DDD8-A69B-46F6-8C6B-F1B001D20573",
+    "height": 112,
+    "width": 285,
+    "x": 18,
+    "y": 760
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/faculty copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71D77079-CC43-4C1F-BB3D-26A5D43B3F11",
+      "overrideName": "383B2D2F-B8AE-4D73-8F8D-73FBBE4C984D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9f148a9e1b3f50cf0c252d2b925f97c19f48dbd4.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E1D31431-C42C-4F6F-9AF9-7ACE84984AD8",
+      "overrideName": "61278C47-6257-4B07-8E31-7333D8911E65_stringValue",
+      "value": "James Braukmann\nProfessor Emeritus, Visual Communication Design\nCEB 335\nPhone: 509.359.2437\nEmail: jbraukmann@ewu.edu                       Classes: Digital Sound Design"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4B78294F-4C61-4AD0-BEB2-FA5ECD5A157D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CDCCFC87-6F5F-4D1B-AEE6-C6060A097882",
+  "verticalSpacing": 0
+}

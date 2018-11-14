@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B30344ED-8207-4D11-97F8-4D0304885892",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B5971B70-A4CF-41E7-A4B2-5A3E5772AE40",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17595869-E374-4795-8436-67C6961E9C8F",
+    "height": 229,
+    "width": 325,
+    "x": -1,
+    "y": 65
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/upcoming events",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "967C248B-E2EE-4C94-AF98-134018BD5DED",
+      "overrideName": "FDF2FACF-B9A0-469A-BBC4-B913FFE7A8C4_stringValue",
+      "value": "Photography Workshops"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC3D94A1-B10A-4B8D-B5CF-F72E915B2D36",
+      "overrideName": "60AAF401-06F0-4FAA-B4F1-3D2B8D62C25E_stringValue",
+      "value": "Theatre"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BF0CE63E-234A-42F2-BC55-55935B12C970",
+      "overrideName": "7660F7FF-8435-4B45-8132-03EB587C277B_stringValue",
+      "value": "Study Groups"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A095133C-997F-4B11-A528-F260202E292E",
+      "overrideName": "CFAD8100-350B-4B6C-A23A-E8CBEEB56366_stringValue",
+      "value": "BFA Shocase"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0C17A5CD-AE40-4D4C-8CE0-183D53D06766",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CFF43361-27E9-4A59-84C4-0C04FE0C3DD7",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "40F2DC03-F36C-4C1E-AB4E-EE0381965B3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2B9C9A72-E5BF-4D39-B044-BB841DB04FE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E0393C3-40F3-4142-BCED-BB642BA12A79",
+    "height": 834,
+    "width": 1440,
+    "x": 0,
+    "y": 1089
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/past events",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EF311067-B6A1-40B7-93ED-66108C967272",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D93D11EA-4D42-44AD-B38B-6124730A139B",
+  "verticalSpacing": 0
+}

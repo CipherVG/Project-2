@@ -1,0 +1,186 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "95C48577-CE73-481C-B14B-102A81C3B17D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 529,
+    "width": 747,
+    "x": 100,
+    "y": 153
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6D840C4B-D1CF-46DA-8017-999C11556088"
+    },
+    {
+      "class": "rectangle",
+      "id": "C51152EA-B1BA-4D3F-A29D-055A4B32ADB4"
+    },
+    {
+      "class": "rectangle",
+      "id": "5CBBD073-412A-4A19-80BC-2D534DC724A8"
+    },
+    {
+      "class": "rectangle",
+      "id": "F47F93AC-90C2-4B93-9219-7B7064E50DD5"
+    },
+    {
+      "class": "rectangle",
+      "id": "D1270F43-3575-4005-9F1C-18996E137A39"
+    },
+    {
+      "class": "rectangle",
+      "id": "8F302A85-6D7D-4E14-94F6-E3B00A24816B"
+    },
+    {
+      "class": "rectangle",
+      "id": "8B4A33DA-5D74-4E79-A92D-366BDBBA57D0"
+    },
+    {
+      "class": "rectangle",
+      "id": "F3666139-F82D-494B-9B3D-05E0327103F4"
+    },
+    {
+      "class": "rectangle",
+      "id": "6F9DF023-273A-4512-A532-B638DD135DDC"
+    },
+    {
+      "class": "rectangle",
+      "id": "1C1C86F6-AB8C-4815-9671-DAB62B918A43"
+    },
+    {
+      "class": "rectangle",
+      "id": "8B4B0421-8200-4A89-99D8-1EBC27FF75C6"
+    },
+    {
+      "class": "rectangle",
+      "id": "1152EE71-DFD5-4720-9599-836C3913897C"
+    },
+    {
+      "class": "rectangle",
+      "id": "079D85EB-F8B8-436D-BFE8-0D0105ED77FA"
+    },
+    {
+      "class": "rectangle",
+      "id": "4CBD4A1F-2FA6-4E79-B5FE-2548D6FF10D7"
+    },
+    {
+      "class": "rectangle",
+      "id": "4F7002E8-7C28-469D-83F8-4927F0F11B47"
+    },
+    {
+      "class": "rectangle",
+      "id": "A295BF4D-A572-4A13-9BB7-6965B02D0B8B"
+    },
+    {
+      "class": "rectangle",
+      "id": "D7FC0D51-1C1A-4326-9180-C2428CA0F2D1"
+    },
+    {
+      "class": "rectangle",
+      "id": "3B2A8DFC-3A07-4696-91EC-9518CCD5A666"
+    },
+    {
+      "class": "rectangle",
+      "id": "5426E53B-4BE8-45F5-B5DB-F8469FE844E0"
+    },
+    {
+      "class": "rectangle",
+      "id": "2F17D7DE-7C43-4967-96A7-C247AC8F47D9"
+    },
+    {
+      "class": "rectangle",
+      "id": "8E2C4ADC-87DE-4170-9505-92FE4C5579C6"
+    },
+    {
+      "class": "rectangle",
+      "id": "8303810F-5C5E-4140-8D35-D0F550B255D1"
+    },
+    {
+      "class": "rectangle",
+      "id": "2488000E-90E6-4761-AC49-13A0705B3B9A"
+    },
+    {
+      "class": "rectangle",
+      "id": "0CC9366F-AB5F-4290-BA5F-505D6279C33C"
+    },
+    {
+      "class": "rectangle",
+      "id": "0D7F068A-C640-4C28-BA51-895E83DF343E"
+    },
+    {
+      "class": "rectangle",
+      "id": "F45F6B56-A506-48D9-BDCE-A9E18CEE54AA"
+    },
+    {
+      "class": "rectangle",
+      "id": "0F4FFD0F-BB39-4724-8968-6984D47D397D"
+    },
+    {
+      "class": "rectangle",
+      "id": "7F829B2E-FC67-47A4-9BDF-22F4B88551A5"
+    },
+    {
+      "class": "rectangle",
+      "id": "7A7B981E-D992-42DF-9411-DDA80FFA8C73"
+    },
+    {
+      "class": "rectangle",
+      "id": "AE787293-4A00-4E8F-8021-5A9A8B1CC0DD"
+    },
+    {
+      "class": "rectangle",
+      "id": "A3AD39B8-3E47-49D3-8CC2-02F91CCFD0CA"
+    },
+    {
+      "class": "rectangle",
+      "id": "CE92DB32-17FB-47B9-86D6-3DB3EDD5D371"
+    },
+    {
+      "class": "rectangle",
+      "id": "3953D356-3BBC-48CA-B438-437757AB49A6"
+    },
+    {
+      "class": "rectangle",
+      "id": "C7DED102-5F5B-4B00-B598-0F266927E713"
+    },
+    {
+      "class": "rectangle",
+      "id": "5741B97D-A2A2-433E-8579-2F0E2644AE27"
+    }
+  ],
+  "name": "days",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

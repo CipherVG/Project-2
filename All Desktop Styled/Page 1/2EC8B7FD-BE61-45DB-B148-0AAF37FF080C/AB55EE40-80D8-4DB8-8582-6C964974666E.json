@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AB55EE40-80D8-4DB8-8582-6C964974666E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "150D71DB-EEF9-4A23-883E-7B2E1EF74839",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F148BC2B-FF8D-4EC1-B95E-9A5334C9E5E7",
+    "height": 293,
+    "width": 1266,
+    "x": 125,
+    "y": 2545
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/reveiws copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D1CB8B5D-A52F-4F44-B295-592043BB5D5C",
+      "overrideName": "49473C3F-5AD5-419C-981A-C2E969F820B4_stringValue",
+      "value": "UX1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D95A262A-3531-455D-BDE0-A2EDB39142E8",
+      "overrideName": "CE4DC717-8BF9-4A24-BEAF-C2AA16B1076B_stringValue",
+      "value": "Students investigate principles of interaction design of web enabled devices and differences and similarities."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7524EF80-FCA6-46E7-88D1-CA1F806CD683",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "45222B9F-ACAE-4E53-B1B9-D46409DCE60F",
+  "verticalSpacing": 0
+}

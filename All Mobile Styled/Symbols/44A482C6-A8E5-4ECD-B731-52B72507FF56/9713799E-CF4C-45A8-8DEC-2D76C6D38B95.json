@@ -1,0 +1,107 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "AndaleMono",
+              "size": 10
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle"
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 94,
+        "location": 0
+      }
+    ],
+    "string": "Overveiw of the VCD program, list of majors, classes, link to outside page of EWU VCD program."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9713799E-CF4C-45A8-8DEC-2D76C6D38B95",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6945344D-C69C-4990-AB27-075B351D0962",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9BCB4A31-E7F0-4175-ABFD-54386B9D4090",
+    "height": 285,
+    "width": 127,
+    "x": 165,
+    "y": 7
+  },
+  "glyphBounds": "{{0, 1}, {126, 55}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Overveiw of the VCD Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A3DF4508-05E1-40DB-91F6-F544AA5F8738",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "2E42C373-66FE-4B5D-9EB2-F94647335276",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "AndaleMono",
+            "size": 10
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle"
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

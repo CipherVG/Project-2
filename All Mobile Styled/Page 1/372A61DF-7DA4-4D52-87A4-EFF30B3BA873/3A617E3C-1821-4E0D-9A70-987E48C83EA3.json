@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3A617E3C-1821-4E0D-9A70-987E48C83EA3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D728A1E8-4199-4995-83EB-0FC6C8231430",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B58803CA-17B4-4EE8-A5FF-E0C9A95B7B4E",
+    "height": 303,
+    "width": 320,
+    "x": 0,
+    "y": 62
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/overveiw of program",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E20ED6E3-78A9-4CEA-8735-E8494A69A539",
+      "overrideName": "D309D17F-A46C-405C-9C0C-7892D3F23B6A_stringValue",
+      "value": "Core Courses (55 credits)\nDESN 100 Drawing for Communication (5)\nDESN 216 Digital Foundations (4)\nDESN 243 Typography (4)\nDESN 259 History of Design (4)\nDESN 263 Visual Communication Design 1 (4)\nDESN 338 User Experience Design 1 (4)\nDESN 363 Visual Communication Design 2 (4)\nDESN 366 Production Design (4)\nDESN 368 Web Design 1 (4).          DESN 463 Visual Communication Design 3 (4)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "448F748C-0A9D-47E4-BB0A-B1BAC9BD281B",
+      "overrideName": "9713799E-CF4C-45A8-8DEC-2D76C6D38B95_stringValue",
+      "value": "DESN 490 Senior Capstone (5)                                                  DESN 493 Portfolio Review (2)\n\nSupporting Courses (18–19 credits)\nART 107 Basic Design (5)\nCMST 201 Public Speaking (5) or CMST 200 Introduction to Speech Communication (4)\nTCOM 205 Introduction to Technical Communication (5)\nTECH 393 Technology in World Civilization (4)\n\nElectives (12 credits)\nApproved Electives (12)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6DAF146B-5377-443F-A5EE-A245C6A7550D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "75AFFCC4-E53F-4F26-8F64-6092D3D7230C",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "37972B97-7C5D-495B-8BF0-EECFB1C948B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4CD9E5A8-908C-4150-B2A2-368481814112",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C43B4EC-F09D-4E6C-809B-90FF840BA950",
+    "height": 546,
+    "width": 1440,
+    "x": 0,
+    "y": 3101
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/faculty and contact",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8782FEC3-7D3B-4712-9917-710A45926908",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7283E271-5A0F-46C8-8129-4F8B5305C4E6",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AFDE2FFF-E660-4A83-B874-F3230268B537",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E9D3644E-551C-4264-8A64-FE4B70DA37BA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5ECA9421-26EB-474D-B33F-1C4064268B33",
+    "height": 1010,
+    "width": 243,
+    "x": 35,
+    "y": 271
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/side bio",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2B4EDBD9-94DA-495B-BFE5-49E6F17DD512_stringValue",
+      "value": "ewell_koch@yahoo.com"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1EC12004-DA08-4129-A934-7EFDF32D1751_stringValue",
+      "value": "Virgie Soto"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D0EED02D-BC4A-4AE1-A8A9-941F927B9D44",
+      "overrideName": "61F9FE5F-1894-43E1-B970-AD45E22F716D_stringValue",
+      "value": "(509)573-7623"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B1041FB9-1252-4D5A-8980-AB3E8264C346",
+      "overrideName": "0B835836-6C06-47DE-81A1-BDB2008DAC7F_stringValue",
+      "value": "Current full time student, at Junior level. Part time intern at Apple design. Want to get into the design industry for Disney."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3A39659C-CD77-4CFD-AEA8-2DB35909438F",
+      "overrideName": "863DE3E9-F675-4E0D-BAEB-0BCDCE60A0CD_stringValue",
+      "value": "Favorite classes:     Photography, UX1, VCD2, Web1, Web2, Design 100."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DC2D68E7-2603-467F-B0BC-032EA4798485",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D5A917F3-CDC0-49C9-B573-C4263FB9D229",
+  "verticalSpacing": 0
+}

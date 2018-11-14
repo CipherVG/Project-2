@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "584999FB-AF13-471E-AE45-5BB5335019AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7CFD91A6-46CD-4A54-AA8D-6E3C11574EE2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "35AC412E-2B5C-47E9-A1B3-AB199C3745D2",
+    "height": 703,
+    "width": 280,
+    "x": 20,
+    "y": 61
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/Event detail",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34F0CFED-8DAD-424A-B9D3-3A31FD58F0DC",
+      "overrideName": "1096CBDC-CA3A-42FA-95B6-AC17E0C8DA63_stringValue",
+      "value": "All Seats $10 (Cash or Check only). EWU Students FREE with ID. We strongly recommend that you call ahead to reserve your seats. 509-359-2459. ADA Seating available as requested. Location\tTheater Building - University Theatre Stage, Theater Building - University Theatre, Theatre Building Lobby Room 101  9th, 10th, 16th, and 17th at 6:30pm. 15th at 5pm."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07EA987D-D677-4B98-8B5E-C41A1F5E2752",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A9D8CF94-9DF5-46DD-8ABB-5C6124F3C346",
+  "verticalSpacing": 0
+}

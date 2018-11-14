@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BE7D8942-8300-4CAA-A6BB-94916F0B08D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D79BC663-C330-48E2-9B15-B2181FED7E58",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B5021BBE-322D-4343-9C10-DE9A001AA670",
+    "height": 150,
+    "width": 320,
+    "x": 0,
+    "y": 560
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/description of art",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "926E863E-B7F5-4142-BA01-8A830CF1E340",
+      "overrideName": "3A1AE1E1-992F-45C0-A64D-39DFC3D97958_stringValue",
+      "value": "Over the school years and many projects accomplished I have found that the best way to tackle the work was to relax and not stress out about it all. From the photography classes, to the layout designs the classes all built off each other and interlocked with the same properties being used."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "99C3CAE3-F5E6-454E-8E8A-9849243A0F1A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AEAC2685-8181-4FEE-9415-1EAF92F42714",
+  "verticalSpacing": 0
+}

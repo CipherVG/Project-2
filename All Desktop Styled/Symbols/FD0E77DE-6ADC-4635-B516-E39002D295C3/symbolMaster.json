@@ -1,0 +1,113 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 3054,
+  "clippingMaskMode": 0,
+  "do_objectID": "FD0E77DE-6ADC-4635-B516-E39002D295C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 270,
+    "width": 1440,
+    "x": 100,
+    "y": 1649
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A58A1482-3688-4E61-A98A-4436F2A0A154"
+    },
+    {
+      "class": "rectangle",
+      "id": "AD21CC1F-0F20-4718-8CAC-BCE387F3AA83"
+    },
+    {
+      "class": "rectangle",
+      "id": "D5A09C8B-20CF-432C-A224-5651B78C568D"
+    },
+    {
+      "class": "rectangle",
+      "id": "2196DEA2-182A-4BB3-A8B1-35F869A629E1"
+    },
+    {
+      "class": "text",
+      "id": "B8F17AEE-3CD6-4381-81A3-DB86DCFAF88E"
+    },
+    {
+      "class": "rectangle",
+      "id": "66D50618-B913-4245-8617-1F1CD9DA5F22"
+    },
+    {
+      "class": "rectangle",
+      "id": "C10FE098-B014-4F88-A8E6-52FAB8C2DFDC"
+    },
+    {
+      "class": "rectangle",
+      "id": "4F579F3C-530D-4FEE-ACAF-6FD96EB1B99A"
+    },
+    {
+      "class": "text",
+      "id": "58E83CCD-34A3-45A6-AFE2-589A5A3D55C3"
+    },
+    {
+      "class": "text",
+      "id": "E80E2C3C-8D16-4598-9ED0-FF57FD376CB9"
+    }
+  ],
+  "name": "molecule/desktop/footer",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D0CA2EA1-C442-4714-84F2-7ABFDE36AE50",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

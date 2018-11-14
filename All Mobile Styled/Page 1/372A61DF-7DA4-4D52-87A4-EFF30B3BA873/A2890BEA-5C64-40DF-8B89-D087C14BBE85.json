@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A2890BEA-5C64-40DF-8B89-D087C14BBE85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "48257AFF-9489-4B35-BB03-25A29C597ABB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D5323678-B76F-48A0-A968-F8E9AECAB5A7",
+    "height": 69,
+    "width": 277,
+    "x": 22,
+    "y": 808
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/reviews copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "14A5DF8F-4FDC-4949-AD23-C7E7EE957A46",
+      "overrideName": "B89B272C-D68D-4C1B-830A-FC6F41014D69_stringValue",
+      "value": "DIGITAL PHOTOGRAPHY"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "05BFF673-11AB-4A0D-8C6A-A9CAABA5DC79",
+      "overrideName": "CF77AC62-E99D-43EB-935C-33B894CDB07C_stringValue",
+      "value": "This class will have an experimental and philosophical approach. Students will use digital imaging mediums for effective communication."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DD2B5920-5704-45C2-9661-EB9FA195DAD7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "02D35CC6-7FA7-4DA5-9F80-F9A2A3FBFFA5",
+  "verticalSpacing": 0
+}

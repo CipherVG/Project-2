@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "99D9FBAC-C2C2-4334-B186-63AC54109F72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "889DEEDC-C602-44FE-BEFB-04E0E7D7B6C4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7C170930-0C3B-4CD5-8CE6-021F984A1C01",
+    "height": 180,
+    "width": 320,
+    "x": 1,
+    "y": 667
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/description",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1636738F-8F45-4038-BA72-A2108FD0905D",
+      "overrideName": "9BBD2B6F-9AB9-4A65-9A67-EF2713B1266A_stringValue",
+      "value": "A major in Visual Communication Design educates and prepares students to conceive and produce creative solutions to satisfy the visual communication needs of society. Graduates are prepared for careers in graphic design, web design, multimedia design, advertising, printing, publishing or related fields. Theory and practice are covered in a variety of contexts, including process and product, form and content, type and image and inter activity. Current technology and future trends are addressed in the context of industry practices. This major is combined with a related minor in another academic area to specialize in specific career preparation."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A70557D0-309C-4734-81D6-9A8C3099442C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6DCA378B-8486-49B8-8204-C599E787050F",
+  "verticalSpacing": 0
+}

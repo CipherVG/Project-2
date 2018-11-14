@@ -1,0 +1,159 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "459EF312-F22D-48AD-BEE0-7B331D0D3BCE",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B303E19-C889-4354-AA61-513146197F2B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 0,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "19B29218-82B9-4E14-BD41-9334E8B235ED",
+    "height": 720,
+    "width": 720.0000000000003,
+    "x": 0,
+    "y": 720
+  },
+  "hasClippingMask": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rectangle Copy 3",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.063762297453703681, 0.19245876736110978}",
+      "curveMode": 1,
+      "curveTo": "{0, 0.19245876736110978}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0.19245876736110978}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.4580801504629628, 0}",
+      "curveMode": 1,
+      "curveTo": "{0.12474681712962962, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.1885091145833333, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.99999999999999956, 0.26614945023148145}",
+      "curveMode": 1,
+      "curveTo": "{0.73042896412037017, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99999999999999956, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.88091001157407345}",
+      "curveMode": 1,
+      "curveTo": "{1, 0.54757667824073997}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0.81372612847222148}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.81398654513888857, 0.99999999999999978}",
+      "curveMode": 1,
+      "curveTo": "{0.81398654513888857, 0.93281611689814792}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.81398654513888857, 0.99999999999999978}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/25408a8f5b88b9462fd5a27a09267f9a99960655.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "folder": "/Users/kaitlynnunan/Desktop/Cipher UX1",
+        "mode": "local"
+      }
+    }
+  }
+}

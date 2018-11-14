@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "09A10DE4-5815-4314-A62F-157022A41835",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "445D5728-804C-470A-AF14-140683802BD2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3DC873DC-F6D7-4038-8CD1-A9DCFBFD426D",
+    "height": 69,
+    "width": 277,
+    "x": 22,
+    "y": 891
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/reviews copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E7D246C-D035-46C3-BC2E-80CAE9F818DC",
+      "overrideName": "B89B272C-D68D-4C1B-830A-FC6F41014D69_stringValue",
+      "value": "MOTION DESIGN"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2735A2D5-BE6A-43DA-9FDA-BB25F4D72050",
+      "overrideName": "CF77AC62-E99D-43EB-935C-33B894CDB07C_stringValue",
+      "value": "This course explores the principles of design through motion, with an emphasis on effective use of typography, graphical elements."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DA04A9B3-B540-4B31-A7A9-200C1D998C40",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "02D35CC6-7FA7-4DA5-9F80-F9A2A3FBFFA5",
+  "verticalSpacing": 0
+}

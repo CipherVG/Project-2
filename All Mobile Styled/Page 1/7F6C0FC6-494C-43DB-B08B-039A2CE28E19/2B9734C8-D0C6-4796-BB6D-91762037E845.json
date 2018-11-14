@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2B9734C8-D0C6-4796-BB6D-91762037E845",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8314F0C7-BB6F-4FC6-97E8-4C43F6229040",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B56E98C3-2CAC-416C-9763-442659DA2433",
+    "height": 226,
+    "width": 320,
+    "x": 1,
+    "y": 441
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/event",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "69F36E9F-84BB-4825-9DAE-B5FD1882C9F8",
+      "overrideName": "EA1BEDE6-D2AE-4C23-B31D-CEB3586288E3_stringValue",
+      "value": "Study groups"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40221752-B0D7-4CD4-944F-CCE56488FE8F",
+      "overrideName": "93279506-17C6-472E-BC56-9DAABEC4A2F4_stringValue",
+      "value": "Photography"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3842E6BD-DD41-4DBF-9030-5F8170E75634",
+      "overrideName": "2377CF23-B88A-4CB7-AB44-67986876406C_stringValue",
+      "value": "Music"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3FB89C9C-E3F9-457B-9A45-B4E2D405B073",
+      "overrideName": "84CCB8C0-F0DA-4C63-A726-89A5606E7602_stringValue",
+      "value": "Theatre"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B2FE43EF-4F67-4EA3-BB66-D3F80D8BE941",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A0FBC5AE-2D94-4646-90C9-8264D7BE9BDB",
+  "verticalSpacing": 0
+}

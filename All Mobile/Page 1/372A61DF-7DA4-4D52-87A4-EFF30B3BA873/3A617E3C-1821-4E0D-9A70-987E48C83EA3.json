@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3A617E3C-1821-4E0D-9A70-987E48C83EA3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D728A1E8-4199-4995-83EB-0FC6C8231430",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B58803CA-17B4-4EE8-A5FF-E0C9A95B7B4E",
+    "height": 144,
+    "width": 320,
+    "x": 0,
+    "y": 62
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/overveiw of program",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6DAF146B-5377-443F-A5EE-A245C6A7550D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "75AFFCC4-E53F-4F26-8F64-6092D3D7230C",
+  "verticalSpacing": 0
+}

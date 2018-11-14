@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "249BF993-1580-48AC-9C21-7253AA7DE7B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 293,
+    "width": 1266,
+    "x": 125,
+    "y": 1357
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/reveiws",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F72C2F8F-F367-4E14-B484-E0EB5B672855",
+      "overrideName": "49473C3F-5AD5-419C-981A-C2E969F820B4_stringValue",
+      "value": "Design 100"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B8622815-606A-4388-8D59-78FAC03B70C3",
+      "overrideName": "CE4DC717-8BF9-4A24-BEAF-C2AA16B1076B_stringValue",
+      "value": "This course covers hand-drawing as a design skill. Emphasis is on sketching, design drawing."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "45222B9F-ACAE-4E53-B1B9-D46409DCE60F",
+  "verticalSpacing": 0
+}

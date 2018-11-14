@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7CF2A1C3-2C0C-41A5-BC6C-D1E7A25B824C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D1793EF-F3BE-4F38-891A-EF6B5A6D64CA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C8FA1F34-0B35-4037-856D-96929ED13CED",
+    "height": 293,
+    "width": 1266,
+    "x": 125,
+    "y": 3139
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/reveiws copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "51411D9F-2A7C-4FB8-9CED-77DFB5B7DC39",
+      "overrideName": "49473C3F-5AD5-419C-981A-C2E969F820B4_stringValue",
+      "value": "Web1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "25A8ED46-E40B-41AF-961D-FBCBD848C13E",
+      "overrideName": "CE4DC717-8BF9-4A24-BEAF-C2AA16B1076B_stringValue",
+      "value": "This course covers professional web design addressing modern technologies, processes and techniques."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6E161783-DEEA-4938-AEBA-22ACCA0B7A68",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "45222B9F-ACAE-4E53-B1B9-D46409DCE60F",
+  "verticalSpacing": 0
+}

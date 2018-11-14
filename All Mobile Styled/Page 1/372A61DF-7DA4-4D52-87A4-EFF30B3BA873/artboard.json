@@ -1,0 +1,139 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "270070F7-D32A-4B52-9DE9-8420CF0688F3",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "372A61DF-7DA4-4D52-87A4-EFF30B3BA873",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3154413D-ADAF-4553-942A-2813A5C50AC8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE2FB6C6-3FDC-416B-859D-3D7B7D78B1C7",
+    "height": 1228,
+    "width": 320,
+    "x": 0,
+    "y": 11
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "55C5B64B-187F-4A39-83BE-4A1BBCBA87AC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2E0A9726-2632-4F5C-BBE4-1E074EC06391"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B6BA78C0-38E2-4E07-A471-889BCA6027EB"
+    },
+    {
+      "class": "rectangle",
+      "id": "57497B6F-608F-4138-8139-4A60623A8400"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E9A44D2-5A59-4745-9F87-529303C662C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A617E3C-1821-4E0D-9A70-987E48C83EA3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7A84AF27-6245-4A5E-98E4-8E4CCA1315DA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0540463-AD12-4B0A-8D0A-1B8602EC30AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBFF9633-176C-4FE5-8744-D205C8FF9E55"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97AF47EF-E0DF-4D7D-AB7A-B41DB277C173"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDDFF3F8-34F7-4718-8261-9CC7227C62BF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "09A10DE4-5815-4314-A62F-157022A41835"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A2890BEA-5C64-40DF-8B89-D087C14BBE85"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DDCC8EBB-0073-4B6E-B05A-0BD22B6B76B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4113B21-82C5-47A2-BFE4-F16B412E7E54"
+    }
+  ],
+  "name": "Mobile Course",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C56ADBC2-09BD-46F4-A208-E658B0181B69",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8EF5C64F-3D4F-445F-9EC8-FE483BBDF12E",
+    "guides": [
+    ]
+  }
+}

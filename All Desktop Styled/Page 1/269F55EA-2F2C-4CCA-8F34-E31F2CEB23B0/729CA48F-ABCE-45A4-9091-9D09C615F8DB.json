@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "729CA48F-ABCE-45A4-9091-9D09C615F8DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A4BBAD75-4CFD-4B4F-BED9-DB7F833AAD3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD8ADE5D-434D-4FDA-A5C7-EA5EB1C9F3EE",
+    "height": 671,
+    "width": 1125,
+    "x": 315,
+    "y": 632
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/photos of work",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EB0D6B86-BAF9-4417-8F96-B05F9A31B3E1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "632D2AE7-C660-4DA5-BB8E-4EB754D2F28A",
+  "verticalSpacing": 0
+}

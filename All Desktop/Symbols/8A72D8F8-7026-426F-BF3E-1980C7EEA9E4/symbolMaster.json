@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 4207,
+  "clippingMaskMode": 0,
+  "do_objectID": "8A72D8F8-7026-426F-BF3E-1980C7EEA9E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 671,
+    "width": 1125,
+    "x": 5264,
+    "y": 465
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "507CD873-77B3-4F49-BC2B-539A1999F07F"
+    },
+    {
+      "class": "rectangle",
+      "id": "0F1C8D69-A8EA-4CBA-8241-4AB8B4DAF599"
+    },
+    {
+      "class": "rectangle",
+      "id": "41ABA4A6-B49E-4274-A900-651DFA85798B"
+    },
+    {
+      "class": "rectangle",
+      "id": "15A35625-E52F-4996-B081-8267B438B15F"
+    },
+    {
+      "class": "rectangle",
+      "id": "F6943F38-8D07-4463-B916-83FAF62A6846"
+    },
+    {
+      "class": "rectangle",
+      "id": "602FF14C-D9F1-4860-A4C0-A1369BC198C4"
+    },
+    {
+      "class": "rectangle",
+      "id": "E593D218-0B69-493A-A66A-76BEAD02C8CC"
+    },
+    {
+      "class": "rectangle",
+      "id": "9BE9184E-E44B-4445-ABA3-33677596B344"
+    },
+    {
+      "class": "rectangle",
+      "id": "EFA1B06D-FF07-45A0-9B4F-1C4B8CEDDCD2"
+    }
+  ],
+  "name": "molecule/desktop/photos of work",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "632D2AE7-C660-4DA5-BB8E-4EB754D2F28A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E4F53A7D-1B34-421F-879D-B99A8F3617D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "80DC1F3A-1319-42C6-BFF4-43B6A35C02F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "86F3DE14-ABE3-4DF7-BE9D-E3CA758DF990",
+    "height": 270,
+    "width": 1440,
+    "x": 0,
+    "y": 2917
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/footer",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F3673ABD-7CA6-406F-8BE7-928EAC6A0CBD",
+      "overrideName": "B8F17AEE-3CD6-4381-81A3-DB86DCFAF88E_stringValue",
+      "value": "© 2018 Eastern Washington University "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E7DFC7FD-C1D9-4297-9F0E-A142E987BD70",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D0CA2EA1-C442-4714-84F2-7ABFDE36AE50",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "DDFD9B4E-32CF-4E40-AB4E-8E2812AB27F5",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7F6C0FC6-494C-43DB-B08B-039A2CE28E19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "10F646F0-9131-4B44-9352-5931749969CA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "99057EA2-D4AA-45E9-8CA7-2FD19B23ABAB",
+    "height": 1024,
+    "width": 320,
+    "x": 1102,
+    "y": 11
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8E4824C7-D83E-490E-BD30-5F0633F658A8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0525D202-218D-4241-9BEA-0E7C818C8CE7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BDB336CD-3548-4EED-A4FF-77275D656F0F"
+    },
+    {
+      "class": "rectangle",
+      "id": "312318CA-34FA-49EC-BBB7-A40C546FCBA5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "41F26A24-E08B-4F65-AA68-CCB1AB94E464"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B9734C8-D0C6-4796-BB6D-91762037E845"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99D9FBAC-C2C2-4334-B186-63AC54109F72"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "064E0E28-BFA3-4552-A596-0D016B589007"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ECC308F4-233F-497A-87FC-7A54055DAA59"
+    }
+  ],
+  "name": "Mobile Home",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3BA86252-41EF-4595-8B53-5EDE53D33843",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "197F38B6-3CBE-4424-A900-F559F10565AF",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "18CE87FE-360D-45DB-B26D-CC738C97ABAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76C9B1D5-FE87-4DFA-9906-654A0EB38AFB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3810F37-D7CC-45FD-8AF4-71B1A1C9FE5D",
+    "height": 293,
+    "width": 1266,
+    "x": 125,
+    "y": 2248
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/desktop/reveiws copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A6265C6-A8A0-44DD-88FE-668B4932E0D7",
+      "overrideName": "49473C3F-5AD5-419C-981A-C2E969F820B4_stringValue",
+      "value": "VCD 1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F30A228-CBB5-43AA-9B48-A34FA8AF60B7",
+      "overrideName": "CE4DC717-8BF9-4A24-BEAF-C2AA16B1076B_stringValue",
+      "value": "This course provides an introduction to Visual Communication Design including the theories."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9F967D2-ED95-4DD4-9AC5-19F819388FE5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "45222B9F-ACAE-4E53-B1B9-D46409DCE60F",
+  "verticalSpacing": 0
+}

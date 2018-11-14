@@ -1,0 +1,119 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "52542F8D-57B1-412E-B593-8A79156B35C8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2EC8B7FD-BE61-45DB-B148-0AAF37FF080C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A1AA1A94-7E26-41F5-BF5D-8AD259B51929",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "52988848-FE46-4D80-91DA-05E73D56195C",
+    "height": 2410,
+    "width": 1440,
+    "x": -1685,
+    "y": -774
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C5F384AB-9648-44FF-B7FD-F830087ED091",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B40331BB-323A-4FCA-9B14-F754A5B9951E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33EDD46F-4F71-4517-88FA-027BF0275024"
+    },
+    {
+      "class": "rectangle",
+      "id": "86C670DF-BF2F-4785-97F0-1A3ACD40016C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1DB7DB0D-3C82-46B4-BC64-A164FFF90ADD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CEFD5EE0-F46D-46B4-9D1E-A702230ACAC2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F5A25BA-6530-40EA-B5AA-6C5680C0D3B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80E2B8AC-C4E4-40D1-AAFB-5CC17926A7D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D612309D-F1C8-422D-ACBD-33FC2E2EB708"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6105F59-FF54-4748-9E6D-B00596D09CA8"
+    }
+  ],
+  "name": "Desktop HD Course",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9BDF7BF-BB5D-4EAD-8960-74F5C955B405",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E17A174B-3D5A-4681-99E8-5FE51BB9D326",
+    "guides": [
+    ]
+  }
+}

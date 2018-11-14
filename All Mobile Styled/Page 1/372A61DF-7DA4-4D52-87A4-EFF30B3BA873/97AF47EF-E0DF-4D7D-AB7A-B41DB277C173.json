@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "97AF47EF-E0DF-4D7D-AB7A-B41DB277C173",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8838D35-E86C-4074-83D0-2EB3084C6F51",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1F12F0A5-DD3C-4256-AE0E-820C76511F95",
+    "height": 69,
+    "width": 277,
+    "x": 22,
+    "y": 643
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/mobile/reviews copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2F06B6DF-7B3B-40A4-927E-DC52EFEE6708",
+      "overrideName": "B89B272C-D68D-4C1B-830A-FC6F41014D69_stringValue",
+      "value": "VCD 1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5FAC9BE2-1C58-4356-A542-3B32C94A9985",
+      "overrideName": "CF77AC62-E99D-43EB-935C-33B894CDB07C_stringValue",
+      "value": "This course provides an introduction to Visual Communication Design including the theories."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D41FEE1D-5C55-47B3-A0E4-1A344F27AF18",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "02D35CC6-7FA7-4DA5-9F80-F9A2A3FBFFA5",
+  "verticalSpacing": 0
+}
